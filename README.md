@@ -21,4 +21,4 @@ Sketch of the final design:
 GitHub repository link:
 https://github.com/lizabethnt/Project_3
 
-test of git
+different text test git hub
